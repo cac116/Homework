@@ -1,3 +1,3 @@
 # Homework
 
-This is a test
+This is a standard readme file.
